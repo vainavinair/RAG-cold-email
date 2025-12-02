@@ -9,4 +9,8 @@ wheels/
 # Virtual environments
 .venv
 
+# Environment variables
 .env
+
+# Data Folder
+data/
