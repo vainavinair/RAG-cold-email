@@ -10,5 +10,6 @@ I have a plan in mind but building on the fly here.
 2. Add error handling and logging
 3. Go with the scrapping data? or use some API to get real job data
 4. Add more data sources fo user context like linkedin profile, portfolio website, user preferences etc.
+5. Prompt better, maybe use few shot prompting for email generation
 
 Will update as I progress. Feel free to suggest improvements or point out any issues. Hopefully this will turn into a tool for automating cold job applications and get me some interviews, lol.
