@@ -10,8 +10,10 @@ dependencies = [
     "langchain[groq]>=1.1.0",
     "numpy>=2.2.6",
     "pandas>=2.3.3",
+    "pygithub>=2.8.1",
     "pypdf>=6.4.0",
     "python-dotenv>=1.2.1",
     "sentence-transformers>=5.1.2",
+    "tqdm>=4.67.1",
     "yagmail>=0.15.293",
 ]
