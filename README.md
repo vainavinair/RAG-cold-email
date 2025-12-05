@@ -4,9 +4,10 @@ I have a plan in mind but building on the fly here.
 2. Created chunking embeddings for both resume and job descriptions
 3. Ranked jobs based on similarity to resume
 4. Generated email content for the top ranked job, and sent email using yagmail
+5. Modularized the code and integrated github repo extraction for user context.
 
 ### Next steps:
-1. Need to modularize the code
+1. Need to ~~modularize~~ the code
 2. Add error handling and logging
 3. Go with the scrapping data? or use some API to get real job data
 4. Add more data sources fo user context like:
